@@ -1,0 +1,31 @@
+- Humans cannot understand a sentence that is too deeply nested (KISS)
+- Games that fail to exercise the brain become boring
+  - Practicing can keep a game fresh for a while, but in many cases we'll move on
+- Fun comes from "richly interpretable" situations
+  - i.e., the more rigidly constructed your game is, the more limited it will be. To make games more long-lasting, they need to integrate either math problems we don't know the solutions to, or more variables (and less predictable ones), such as human psychology, physics, and so on.
+- One of the guaranteed releases of endorphins is when we learn something or master a task. This almost always causes us to break out into a smile.
+- The brain doesn't necessarily crave new experiences - mostly, just new data
+  - A new experience might force a whole new system on the brain, which the brain often doesn't like
+- Ways in which boredom might arise
+  - The player might understand how the game works from just the first five minutes and then the game will be dismissed as trivial.
+  - The player might understand that there's a ton of depth to the possible permutations in a game, but conclude that these permutations are below their level of interest.
+  - The player might fail to see any patterns whatsoever, and nothing is more boring than noise. “This is too hard.”
+  - The game might unveil new variations in the pattern too slowly, in which case the game may be dismissed as trivial too early, even though it does have depth. “The difficulty ramps too slowly.”
+  - The game might also unveil the variations too quickly, which then leads to players losing control of the pattern and giving up because it looks like noise. “This got too hard too fast,”
+  - The player might master everything in the pattern. He has exhausted the fun, consumed it all. “I beat it.”
+- If games are essentially models of reality, then the things that games teach us must reflect on reality.
+- Formal rule sets are the basis for most games, but not all—there are classes of games with informal rule sets
+- Most games incorporate some element of spatial reasoning. The space may be a Cartesian coordinate space,* like what we see on a soccer field, or it may be a directed graph* like we see in “racetrack” board games. Mathematicians might even point out that something like a tennis court could be both at the same time.*
+  - Classifying, collating, and exercising power over the contents of a space is one of the fundamental lessons of all kinds of gameplay.
+- Some of the really important parts of exploration involve memory. Many games involve thoroughly exploring the possibility space as part of their victory condition.
+- Most games have something to do with power. Popular game genres, such as shooters, fighting games, and war games are all about reaction times, tactical awareness, assessing the weaknesses of an opponent, and judging when to strike.
+- Teamwork is far deadlier tool than sharpshooting
+- Farming games are really about running a business
+- Games do very well at active verbs, such as controlling, projecting, surrounding, matching, remembering, counting, and quantification. <u>I should take advantage of it</u>
+- It’s worth asking ourselves what skills are more commonly needed today. Games should be evolving towards teaching us those skills.
+- Developing speed without precision is not all that useful. Going slowly lets you practice the precision first, make it unconscious, and then work on the speed.
+- The tasks in the strategic games are not about automatic responses, and therefore the training to execute at reflex levels of speed would be misguided 
+  - A good strategy game will teach you not to get too familiar with the situation and will keep you on your toes
+- a possible algorithm for innovation: *find a new dimension to add to the gameplay*
+  - I.e., if we really want to innovate on puzzle games, how about exploring puzzle games based on time* rather than space, for example?
+- 
