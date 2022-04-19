@@ -1,20 +1,20 @@
-- Humans cannot understand a sentence that is too deeply nested (KISS)
-- Games that fail to exercise the brain become boring
+- **Humans cannot understand a sentence that is too deeply nested (KISS)**
+- **Games that fail to exercise the brain become boring**
   - Practicing can keep a game fresh for a while, but in many cases we'll move on
-- Fun comes from "richly interpretable" situations
+- **Fun comes from "richly interpretable" situations**
   - i.e., the more rigidly constructed your game is, the more limited it will be. To make games more long-lasting, they need to integrate either math problems we don't know the solutions to, or more variables (and less predictable ones), such as human psychology, physics, and so on.
 - One of the guaranteed releases of endorphins is when we learn something or master a task. This almost always causes us to break out into a smile.
-- The brain doesn't necessarily crave new experiences - mostly, just new data
+- **The brain doesn't necessarily crave new experiences - mostly, just new data**
   - A new experience might force a whole new system on the brain, which the brain often doesn't like
-- Ways in which boredom might arise
+- **Ways in which boredom might arise**
   - The player might understand how the game works from just the first five minutes and then the game will be dismissed as trivial.
   - The player might understand that there's a ton of depth to the possible permutations in a game, but conclude that these permutations are below their level of interest.
   - The player might fail to see any patterns whatsoever, and nothing is more boring than noise. “This is too hard.”
   - The game might unveil new variations in the pattern too slowly, in which case the game may be dismissed as trivial too early, even though it does have depth. “The difficulty ramps too slowly.”
   - The game might also unveil the variations too quickly, which then leads to players losing control of the pattern and giving up because it looks like noise. “This got too hard too fast,”
   - The player might master everything in the pattern. He has exhausted the fun, consumed it all. “I beat it.”
-- If games are essentially models of reality, then the things that games teach us must reflect on reality.
-- Formal rule sets are the basis for most games, but not all—there are classes of games with informal rule sets
+- **If games are essentially models of reality, then the things that games teach us must reflect on reality.**
+- **Formal rule sets are the basis for most games, but not all—there are classes of games with informal rule sets**
 - Most games incorporate some element of spatial reasoning. The space may be a Cartesian coordinate space,* like what we see on a soccer field, or it may be a directed graph* like we see in “racetrack” board games. Mathematicians might even point out that something like a tennis court could be both at the same time.*
   - Classifying, collating, and exercising power over the contents of a space is one of the fundamental lessons of all kinds of gameplay.
 - Some of the really important parts of exploration involve memory. Many games involve thoroughly exploring the possibility space as part of their victory condition.
@@ -28,4 +28,57 @@
   - A good strategy game will teach you not to get too familiar with the situation and will keep you on your toes
 - a possible algorithm for innovation: *find a new dimension to add to the gameplay*
   - I.e., if we really want to innovate on puzzle games, how about exploring puzzle games based on time* rather than space, for example?
-- 
+- **The moment of fun a lot of players like to cite is “being in the zone.” This is the state you enter when you are experiencing absolute concentration on a task.**
+  - The idea is that a given learner has things he can do without help, things he just cannot do, and things he can do with some help. Fun tends to come in this last one, and the help is provided by the game system.
+- **Fun isn’t the only reason to play a game with a system, of course:**
+  - **Practice**. Practice is a very common thing to do with games. Studies have shown that mastering a field can take many hours of what is termed “deliberate practice,” where the person practicing drills herself on challenging tasks, over and over.* It is very hard work. In some sense games are “deliberate practice machines” that make this work easier.
+  - **Meditation**. Although meditation is poorly studied in the sciences, there are common elements that recur in various practices around the world: using a focus object of some sort, such as a mantra or breathing pattern, and engaging in repetitive behavior.
+  - **Comfort**. The act of playing in a space which is fully understood, where one can exercise mastery with little risk, can provide a welcome break from a challenging life. Games offer this type of escape, much as a familiar well-loved book or film does when experienced over and over.
+- *To recap the preceding pages: Games aren’t stories. Games aren’t about beauty or delight. Games aren’t about jockeying for social status. They stand, in their own right, as something incredibly valuable. Fun is about learning in a context where there is no pressure from consequence, and that is why games matter.*
+- Female players would gravitate toward games with simpler abstract systems, less spatial reasoning, and more emphasis on interpersonal relationships, narrative, and empathy. They would also prefer games with simpler spatial topologies.*
+- There would be clear gender differences in play style between hardcore gamers of different genders.* Males would focus on games emphasizing the projection of power and the control of territory, whereas females would select games that permit modeling behavior (such as multiplayer games) and do not demand strict hierarchies.
+- As males aged, you’d expect them to slowly shift over to play styles similar to those of the women.* Many of them might outright drop out of the gaming hobby. In contrast, older females likely wouldn’t drop out of gaming; if anything, their interest in games might actually sharpen after menopause.
+- There would be fewer female gamers in general, since no matter what, games are still about formal abstract systems at heart.
+- This argues pretty strongly that if people are to achieve their maximum potential, they need to do the hard work of playing the games they don’t get, the games that don’t appeal to their natures. 
+  - Taking these on may serve as the nurture part of the equation, counterbalancing the brains that they were born with or culturally trained to have.
+- We dislike tedium, sure, but the fact is that we crave predictability. Our whole life is built on it. And since we dislike tedium, we’ll allow unpredictability, but only inside the confines of predictable boxes, like games or TV shows. Unpredictability means new patterns to learn, therefore unpredictability is fun.
+- The natural instinct of a game player is to make the game more predictable because then he is more likely to win.
+- This leads to behaviors like “bottom-feeding,” where a player will intentionally take on weaker opponents under the sensible logic that a bunch of sure wins is a better strategy than gambling it all on an iffy winner-take-all battle. It's the smart thing to do.
+- This is what games are for. They teach us things so that we can minimize risk and know what choices to make. Phrased another way, the destiny of games is to become boring, not to be fun.*
+- **The intricacies of games come from either having a lot of mechanics or having a few, very elegantly chosen ones. Most of these mechanics turn out to be from a fairly small set of problem types: estimating curves, optimizing, matching, balancing, or classifying.**
+  - A range of challenges. This is basically content. It does not change the rules, it operates within the rules, and brings slightly different parameters to the table. Each enemy you encounter in a game is one of these.
+  - A range of abilities required to solve the encounter. If all you have is a hammer, and you can only do one thing with it, then the game is going to be dull. This is a test that tic-tac-toe fails but that checkers meets; in a game of checkers you start learning the importance of forcing the other player into a disadvantageous jump. Most games unfold abilities over time, until at a high level you have many possible stratagems to choose from.
+  - Skill required in using the abilities. Bad choices lead to failure in the encounter. This skill can be of any sort, really: resource management during the encounter, failures in timing, failures in physical dexterity, and failures to monitor all the variables that are in motion.
+- If an activity doesn't give a quantifiable reward, they'll consider it irrelevant.
+- **A game having all of these elements hits the right cognitive buttons to be fun.** If a game involves no preparation, we say it relies on chance. If there’s no sense of space, we call it trivial. If there’s no core mechanic, there’s no game system at all. If there’s no range of challenges, we exhaust it quickly. If there aren’t multiple choices to make, it’s simplistic. And if skill isn’t required, it’s tedious.
+- **There are also some features that should be present to make the experience a learning experience:**
+  - **A variable feedback system.** The result of the encounter should not be completely predictable. Ideally, greater skill in completing the challenge should lead to better rewards.
+  - **The Mastery Problem* must be dealt with.** High-level players can’t get big benefits from easy encounters or they will bottom-feed. Inexpert players will be unable to get the most out of the game.
+  - **Failure must have a cost.** At the very least there is an opportunity cost,* and there may be more. Next time you attempt the challenge, you are assumed to come into it from scratch—there are no “do-overs.” Next time you try, you may be prepared differently.
+  - *Looking at these elementary particles that make up ludemes, it’s easy to see why most games in history have been competitive head-to-head activities.*
+- This isn’t an algorithm for fun, but it’s a useful tool for checking for the absence of fun, because designers can identify systems that fail to meet all the criteria. It may also prove useful in terms of game critique. Simply check each system against this list:
+  - Do you have to prepare before taking on the challenge?
+  - Can you prepare in different ways and still succeed?
+  - Does the environment in which the challenge takes place affect the challenge?
+  - Are there solid rules defined for the challenge you undertake?
+  - Can the core mechanic support multiple types of challenges?
+  - Can the player bring multiple abilities to bear on the challenge?
+  - At high levels of difficulty, does the player have to bring multiple abilities to bear on the challenge?
+  - Is there skill involved in using an ability? (If not, is this a fundamental “move” in the game, like moving one checker piece?)
+  - Are there multiple success states to overcoming the challenge? (In other words, success should not have a single guaranteed result.)
+  - Do advanced players get no benefit from tackling easy challenges?
+  - Does failing at the challenge at the very least make you have to try again?
+- Most classic games consist of relatively few systems that fit together elegantly. The entire genre of abstract strategy games is about elegant choice of ludemes.
+- The lesson for designers is simple: a game is destined to become boring, automated, cheated, and exploited. Your sole responsibility is to know what the game is about and to ensure that the game teaches that thing. That one thing, the theme, the core, the heart of the game, might require many systems or it might require few. But no system should be in the game that does not contribute towards that lesson. It is the cynosure of all the systems; it is the moral of the story; it is the point.
+- **So what is art?** My take on it is simple. Media provide information. Entertainment provides comforting, simplistic information. And art provides challenging information, stuff that you have to think about in order to absorb. Art uses a particular medium to communicate within the constraints of that medium, and often what is communicated is thoughts about the medium itself (in other words, a formalist approach to arts—much modern art falls in this category).
+- Consider a game in which you gained power to act based on how many people you *controlled*, but you gained power to heal yourself from attacks based on how many *friends* you had. Then include a rule that friends tend to fall away as you gain power.
+  - Now, the tough part—the game’s victory condition must not be about being on top or being at the bottom. Instead, the goal must be something else, perhaps ensuring the overall survival of the tribe.
+  - Now, suddenly, we see that being at the top, and having no allies, is a choice. Being lower in the status hierarchy is also a choice, and it may be a more satisfying choice. The game is presenting a pattern and a lesson with a specific desired outcome. We need the right feedback in place as well, of course: we should reward all players for sacrificing themselves for the good of the tribe. Perhaps if they are captured in the course of the game, they may no longer act directly, but still score points based on the actions of the players they *used* to rule. This would represent their legacy—an important psychological driver that mere power fantasies tend not to tackle.
+  - There are many possible lessons to be extracted from such a game, and there’s no right answer to the question of choice of strategy. It is simply representing some aspects of the world as it is. It’s crude, and not worked out in detail, but it is an example of a game that might actually teach something subtler than tactics in a simulated battle. We begin to create mechanics that simulate not the projection of power, but lofty concepts like duty, love, honor, and responsibility, and evolutionary ones like “I want my children to have a better life than mine.”
+- Choosing constraints is one of the most fruitful ways to prod creativity.
+  Games, too, share these characteristics. “Create a one button game.” “Invent a game using nothing more than pennies and a deck of cards.” “Design a game that is about exact cover.”*
+- Toughest puzzles are the ones that force the most self-examination. They are the ones that challenge us most deeply on many levels—mental stamina, mental agility, creativity, perseverance, physical endurance, and emotional self-abnegation.
+- We arrived at a conclusion, that the game should make use of its players as content. How to do that?
+  - As a rule: no hostility. Competitive.
+  - Underlying mechanic: 
+- Remove layers of abstraction and give into details: the player doesn't know what a potion is made of, nor what a mob does. Dynamic gameplay: Each round, the same enemy might have another ability, the selection is random.
